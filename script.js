@@ -6,7 +6,7 @@
                 brand: "Traditional Somali",
                 price: 45.00,
                 originalPrice: 55.00,
-                image: "/images/perfume6.jpg",
+                image: "perfume6.jpg",
                 category: "Catar",
                 tag: "Traditional"
             },
@@ -26,7 +26,7 @@
                 brand: "Chanel",
                 price: 220.00,
                 originalPrice: 250.00,
-                image: "/images/perfume9.jpg",
+                image: "perfume9.jpg",
                 category: "perfume",
                 tag: "Luxury"
             },
@@ -36,7 +36,7 @@
                 brand: "Dior",
                 price: 195.00,
                 originalPrice: 220.00,
-                image: "/images/perfumes 12.jpg",
+                image: "perfumes 12.jpg",
                 category: "perfume",
                 tag: "Classic"
             },
@@ -46,7 +46,7 @@
                 brand: "Traditional Somali",
                 price: 35.00,
                 originalPrice: 40.00,
-                image: "/images/perfumes 13.jpg",
+                image: "perfumes 13.jpg",
                 category: "Catar",
                 tag: "Traditional"
             },
@@ -56,7 +56,7 @@
                 brand: "Gees Catar",
                 price: 55.00,
                 originalPrice: 65.00,
-                image: "/images/perfumes 14.jpg",
+                image: "perfumes 14.jpg",
                 category: "Catar",
                 tag: "Popular"
             },
@@ -66,7 +66,7 @@
                 brand: "Viktor & Rolf",
                 price: 185.00,
                 originalPrice: 210.00,
-                image: "/images/perfume10.jpg",
+                image: "perfume10.jpg",
                 category: "perfume",
                 tag: "Best Seller"
             },
@@ -76,7 +76,7 @@
                 brand: "Yves Saint",
                 price: 175.00,
                 originalPrice: 200.00,
-                image: "/images/perfume1.jpg",
+                image: "perfume1.jpg",
                 category: "perfume",
                 tag: "New"
             }
@@ -523,3 +523,4 @@
             }
 
         });
+
