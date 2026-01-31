@@ -16,7 +16,7 @@
                 brand: "Xiddig Catar",
                 price: 65.00,
                 originalPrice: 75.00,
-                image: "/images/perfume7.jpg",
+                image: "perfume7.jpg",
                 category: "Catar",
                 tag: "Best Seller"
             },
@@ -521,4 +521,5 @@
                 document.querySelector('header').style.padding = '15px 0';
                 document.querySelector('header').style.boxShadow = 'var(--shadow)';
             }
+
         });
